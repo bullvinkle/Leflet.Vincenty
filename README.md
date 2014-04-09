@@ -1,4 +1,4 @@
 Leflet.Vincenty
 ===============
 
-Plugin for Leaflet to calculation of distance between points using Vincenty's formula.
+Plugin for Leaflet to calculate the distance between points. Vincenty's formula used.
